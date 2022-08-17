@@ -1,6 +1,6 @@
 const courses = [
   {
-    title: 'Convex Optimization',
+    title: 'Convex Optimization j',
     number: 'EE 364a',
     link: 'http://stanford.edu/class/ee364a/',
     university: 'Stanford',
