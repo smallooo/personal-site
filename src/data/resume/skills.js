@@ -18,6 +18,11 @@ const skills = [
     category: ['Mobile Development'],
   },
   {
+    title: 'OpenGL ES',
+    competency: 3,
+    category: ['Mobile Development'],
+  },
+  {
     title: 'Amazon Web Services',
     competency: 3,
     category: ['Web Development', 'Tools'],
@@ -43,7 +48,7 @@ const skills = [
     category: ['Web Development', 'Python'],
   },
   {
-    title: 'Git/Mercurial',
+    title: 'Git',
     competency: 3,
     category: ['Tools'],
   },
@@ -66,6 +71,21 @@ const skills = [
     title: 'Pytorch',
     competency: 3,
     category: ['Deep Learning', 'Python'],
+  },
+  {
+    title: 'Recommend System',
+    competency: 3,
+    category: ['Deep Learning', 'Python', 'C/C++'],
+  },
+  {
+    title: 'NLP',
+    competency: 3,
+    category: ['Deep Learning', 'Python', 'C/C++'],
+  },
+  {
+    title: 'CV',
+    competency: 2,
+    category: ['Deep Learning', 'Python', 'C/C++'],
   },
   {
     title: 'Jupyter',

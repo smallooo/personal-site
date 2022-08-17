@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'School of Software Technology, Zhejiang University',
-    degree: 'Software Engineering',
+    degree: 'MA Software Engineering',
     link: 'http://www.cst.zju.edu.cn/',
     year: 2021,
   },
