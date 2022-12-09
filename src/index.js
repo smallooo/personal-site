@@ -9,7 +9,6 @@ const StrictApp = () => (
   </React.StrictMode>
 );
 
-
 const rootElement = document.getElementById('root');
 
 // hydrate is required by react-snap.
